@@ -3,7 +3,7 @@
     font-family: sans-serif;
   }
  img{
-  width= 30%;
+  width=100px;
  }
 </style>
 <h1>Bienvenido a prueba.</h1>
